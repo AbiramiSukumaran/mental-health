@@ -8,3 +8,10 @@ It was downloaded using pushshift API. Re-use of this data is subject to Reddit 
 Citation:
 Identifying Depression on Reddit: The Effect of Training Data (Pirina & Çöltekin, EMNLP 2018):
 https://aclanthology.org/W18-5903
+
+
+Disclaimer
+This dataset is a sample used for demonstration purposes only and cannot be taken as a medical advisory or mental health guidance. 
+If you feel triggered by mental health related discussion or words like depression / suicide, it is advised to stop reading this further. 
+This was created during the Mental Health week and should only be considered as a technology guide for using machine learning services 
+but not for treating / solving mental health questions. 
